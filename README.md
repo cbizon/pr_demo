@@ -1,3 +1,3 @@
 # pr_demo
 
-Cats are better than dogs
+Dogs are better than cats
